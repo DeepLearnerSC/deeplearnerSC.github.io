@@ -1,0 +1,2 @@
+(this.webpackJsonpporfolio=this.webpackJsonpporfolio||[]).push([[0],{11:function(n,e,t){"use strict";t.r(e);var c=t(1),o=t.n(c),s=t(3),r=t.n(s),i=(t(8),t(9),t(0));var a=function(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("div",{className:"spans",children:"Hello! I am Song Cho."}),Object(i.jsx)("span",{children:"Under Construction..."})]})};r.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(a,{})}),document.getElementById("root"))},8:function(n,e,t){},9:function(n,e,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.dd3bcd96.chunk.js.map
